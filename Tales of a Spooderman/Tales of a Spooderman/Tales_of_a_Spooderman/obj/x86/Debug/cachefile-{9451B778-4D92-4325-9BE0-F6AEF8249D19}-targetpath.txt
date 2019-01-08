@@ -1,0 +1,28 @@
+Content\Startup Menu\background.xnb
+Content\Startup Menu\logo.xnb
+Content\Startup Menu\xButton.xnb
+Content\Main Menu\background.xnb
+Content\Spiderman\Spiderman Run.xnb
+Content\Spiderman\Spiderman Idle.xnb
+Content\Spiderman\Spiderman Punch.xnb
+Content\Spiderman\Spiderman Jump.xnb
+Content\Spiderman\background.xnb
+Content\Spiderman\Spiderman Swing.xnb
+Content\Spiderman\Spiderman Web.xnb
+Content\Spiderman\Spiderman Shoot.xnb
+Content\Spiderman\Spiderman AttackWeb.xnb
+Content\Spiderman\Icon.xnb
+Content\Green Goblin\GreenGoblin Idle.xnb
+Content\Green Goblin\GreenGoblin Walk.xnb
+Content\Green Goblin\GreenGoblin Hurt.xnb
+Content\Green Goblin\GreenGoblin FlyAttack.xnb
+Content\Green Goblin\GreenGoblin Fly.xnb
+Content\Green Goblin\GreenGoblin Jump.xnb
+Content\Green Goblin\GreenGoblinIcon.xnb
+Content\Green Goblin\GreenGoblin GroundAttack.xnb
+Content\Green Goblin\bomb.xnb
+Content\Startup Menu\StartFont.xnb
+Content\Main Menu\optionFont.xnb
+Content\Main Menu\optionSelectedFont.xnb
+Content\Spiderman\WebCount.xnb
+Content\End Menu\GameOverFont.xnb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tales_of_a_Spooderman", "Tales of a Spooderman\Tales_of_a_Spooderman\Tales_of_a_Spooderman.csproj", "{5A30FEB2-7282-40C9-B997-3BEA99770839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tales_of_a_SpoodermanContent", "Tales of a Spooderman\Tales_of_a_SpoodermanContent\Tales_of_a_SpoodermanContent.contentproj", "{9451B778-4D92-4325-9BE0-F6AEF8249D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A30FEB2-7282-40C9-B997-3BEA99770839}.Debug|x86.ActiveCfg = Debug|x86
+		{5A30FEB2-7282-40C9-B997-3BEA99770839}.Debug|x86.Build.0 = Debug|x86
+		{5A30FEB2-7282-40C9-B997-3BEA99770839}.Release|x86.ActiveCfg = Release|x86
+		{5A30FEB2-7282-40C9-B997-3BEA99770839}.Release|x86.Build.0 = Release|x86
+		{9451B778-4D92-4325-9BE0-F6AEF8249D19}.Debug|x86.ActiveCfg = Debug|x86
+		{9451B778-4D92-4325-9BE0-F6AEF8249D19}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,86 @@
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Tales_of_a_Spooderman.exe
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Tales_of_a_Spooderman.pdb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Tales_of_a_Spooderman.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Tales_of_a_Spooderman.exe
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Tales_of_a_Spooderman.pdb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\background.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\logo.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\StartFont.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\xButton.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\background.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\optionFont.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\optionSelectedFont.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\background.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\logo.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\xButton.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\background.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\StartFont.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\optionFont.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\optionSelectedFont.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Tales_of_a_Spooderman.exe
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Tales_of_a_Spooderman.pdb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Tales_of_a_Spooderman.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Tales_of_a_Spooderman.exe
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\Tales_of_a_Spooderman.pdb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\background.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Run.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Idle.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Punch.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Jump.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Swing.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Web.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Shoot.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman AttackWeb.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Icon.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Idle.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Walk.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Hurt.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin FlyAttack.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Fly.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Jump.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblinIcon.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin GroundAttack.xnb
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\bomb.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Run.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Idle.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Punch.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Jump.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\background.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Swing.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Web.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Shoot.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman AttackWeb.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Icon.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Idle.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Walk.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Hurt.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin FlyAttack.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Fly.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Jump.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblinIcon.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin GroundAttack.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\bomb.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\WebCount.xnb
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\End Menu\GameOverFont.xnb

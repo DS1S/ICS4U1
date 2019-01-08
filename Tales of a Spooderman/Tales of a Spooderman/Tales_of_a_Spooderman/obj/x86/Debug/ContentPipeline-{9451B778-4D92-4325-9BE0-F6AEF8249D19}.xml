@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Startup Menu\background.jpg</Source>
+      <Name>Startup Menu\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\background.xnb</Output>
+      <Time>2019-01-07T17:35:42.1545228-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Startup Menu\logo.png</Source>
+      <Name>Startup Menu\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\logo.xnb</Output>
+      <Time>2019-01-07T17:35:42.1346993-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Startup Menu\xButton.png</Source>
+      <Name>Startup Menu\xButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\xButton.xnb</Output>
+      <Time>2019-01-07T17:35:42.121433-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\background.png</Source>
+      <Name>Main Menu\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\background.xnb</Output>
+      <Time>2019-01-07T17:35:41.9042709-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Run.png</Source>
+      <Name>Spiderman\Spiderman Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Run.xnb</Output>
+      <Time>2019-01-07T17:35:42.0003409-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Idle.png</Source>
+      <Name>Spiderman\Spiderman Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Idle.xnb</Output>
+      <Time>2019-01-07T17:35:42.0193754-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Punch.png</Source>
+      <Name>Spiderman\Spiderman Punch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Punch.xnb</Output>
+      <Time>2019-01-07T17:35:42.0874097-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Jump.png</Source>
+      <Name>Spiderman\Spiderman Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Jump.xnb</Output>
+      <Time>2019-01-07T17:35:42.0399717-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\background.png</Source>
+      <Name>Spiderman\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\background.xnb</Output>
+      <Time>2019-01-07T17:35:42.0763933-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Swing.png</Source>
+      <Name>Spiderman\Spiderman Swing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Swing.xnb</Output>
+      <Time>2019-01-07T17:35:41.9585163-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Web.png</Source>
+      <Name>Spiderman\Spiderman Web</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Web.xnb</Output>
+      <Time>2019-01-07T17:35:41.9182915-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman Shoot.png</Source>
+      <Name>Spiderman\Spiderman Shoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman Shoot.xnb</Output>
+      <Time>2019-01-07T17:35:41.9461502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Spiderman AttackWeb.png</Source>
+      <Name>Spiderman\Spiderman AttackWeb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Spiderman AttackWeb.xnb</Output>
+      <Time>2019-01-07T17:35:42.0296395-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\Icon.png</Source>
+      <Name>Spiderman\Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\Icon.xnb</Output>
+      <Time>2019-01-07T17:35:42.0547959-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin Idle.png</Source>
+      <Name>Green Goblin\GreenGoblin Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Idle.xnb</Output>
+      <Time>2019-01-07T17:35:41.7332189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin Walk.png</Source>
+      <Name>Green Goblin\GreenGoblin Walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Walk.xnb</Output>
+      <Time>2019-01-07T17:35:41.6552177-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin Hurt.png</Source>
+      <Name>Green Goblin\GreenGoblin Hurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Hurt.xnb</Output>
+      <Time>2019-01-07T17:35:41.7102295-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin FlyAttack.png</Source>
+      <Name>Green Goblin\GreenGoblin FlyAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin FlyAttack.xnb</Output>
+      <Time>2019-01-07T17:35:41.7679111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin Fly.png</Source>
+      <Name>Green Goblin\GreenGoblin Fly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Fly.xnb</Output>
+      <Time>2019-01-07T17:35:41.7472272-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin Jump.png</Source>
+      <Name>Green Goblin\GreenGoblin Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin Jump.xnb</Output>
+      <Time>2019-01-07T17:35:41.6991665-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblinIcon.jpg</Source>
+      <Name>Green Goblin\GreenGoblinIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblinIcon.xnb</Output>
+      <Time>2019-01-07T17:35:41.6868098-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\GreenGoblin GroundAttack.png</Source>
+      <Name>Green Goblin\GreenGoblin GroundAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\GreenGoblin GroundAttack.xnb</Output>
+      <Time>2019-01-07T17:35:41.722238-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Goblin\bomb.png</Source>
+      <Name>Green Goblin\bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Green Goblin\bomb.xnb</Output>
+      <Time>2019-01-07T17:35:41.7579001-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Startup Menu\StartFont.spritefont</Source>
+      <Name>Startup Menu\StartFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Startup Menu\StartFont.xnb</Output>
+      <Time>2019-01-07T17:35:42.1094283-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\optionFont.spritefont</Source>
+      <Name>Main Menu\optionFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\optionFont.xnb</Output>
+      <Time>2019-01-07T17:35:41.8081679-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\optionSelectedFont.spritefont</Source>
+      <Name>Main Menu\optionSelectedFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Main Menu\optionSelectedFont.xnb</Output>
+      <Time>2019-01-07T17:35:41.8281971-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spiderman\WebCount.png</Source>
+      <Name>Spiderman\WebCount</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\Spiderman\WebCount.xnb</Output>
+      <Time>2019-01-07T17:50:50.1338799-05:00</Time>
+    </Item>
+    <Item>
+      <Source>End Menu\GameOverFont.spritefont</Source>
+      <Name>End Menu\GameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\End Menu\GameOverFont.xnb</Output>
+      <Time>2019-01-07T22:10:31.9684402-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9451B778-4D92-4325-9BE0-F6AEF8249D19}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_SpoodermanContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_Spooderman\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-12-10T20:04:24.9334415-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

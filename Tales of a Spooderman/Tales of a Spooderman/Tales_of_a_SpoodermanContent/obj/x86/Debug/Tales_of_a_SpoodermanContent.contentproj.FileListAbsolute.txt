@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\GitHub\ICS4U1---Final-Game\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_SpoodermanContent\obj\x86\Debug\Tales_of_a_SpoodermanContent.contentprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ICS4U1---Final-Game-master\Tales of a Spooderman\Tales of a Spooderman\Tales_of_a_SpoodermanContent\obj\x86\Debug\Tales_of_a_SpoodermanContent.contentprojResolveAssemblyReference.cache
